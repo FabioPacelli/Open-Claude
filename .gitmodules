@@ -4,3 +4,6 @@
 [submodule "open-higgsfield"]
 	path = open-higgsfield
 	url = https://github.com/wide-trace/open-higgsfield.git
+[submodule "VoiceStudio"]
+	path = VoiceStudio
+	url = https://github.com/debpalash/VoiceStudio.git
