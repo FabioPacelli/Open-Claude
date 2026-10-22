@@ -7,3 +7,7 @@
 [submodule "VoiceStudio"]
 	path = VoiceStudio
 	url = https://github.com/debpalash/VoiceStudio.git
+[submodule "OmniRoute"]
+	path = OmniRoute
+	url = https://github.com/cheaper-inference/OmniRoute.git
+	shallow = true
